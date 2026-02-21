@@ -1,7 +1,6 @@
 # Vibe Coding + Vibe Research for LLM Research: Tutorial Resources
 
-> **Tutorial by Zhaochen Su, HKUST CSE | February 2026**
->
+
 > A curated list of papers, blogs, and tools for the tutorial on AI-augmented coding and research workflows in LLM research.
 
 ---
